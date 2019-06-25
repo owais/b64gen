@@ -1,1 +1,3 @@
-module github.com/owais/go-rand-key
+module github.com/owais/b64gen
+
+go 1.12
